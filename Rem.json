@@ -1,8 +1,9 @@
 {
     "manifest": {
-        "author": "Camjam948#0909",
-        "version": "1.0.0",
-        "name": "Rem"
+        "version": "1.0.1",
+        "name": "Rem",
+        "updater": "https:\/\/raw.githubusercontent.com\/OasisVee\/Rem-Theme\/refs\/heads\/main\/Rem.json",
+        "author": ".-.serinova.-.#0000"
     },
     "background": {
         "url": "https:\/\/github.com\/OasisVee\/Rem-Theme\/raw\/main\/OIG.png",
